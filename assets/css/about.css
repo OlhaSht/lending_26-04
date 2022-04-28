@@ -1,0 +1,14 @@
+
+.about-content{
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+h2{
+  margin: auto;
+  padding: 40px;
+  font-size: 2em;
+}
+p{
+  padding: 40px;
+}
